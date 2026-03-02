@@ -1,0 +1,14 @@
+FAZENDO:
+
+FAZER:
+
+Terminados:
+    - Mostrar quem ganhou (usuário | Computador)
+    - Encerrar o jogo no caso não consiga continuar (tabuleiro completo)
+    - Validar a vitória pela diagonal
+    - Limitar o usuário a fazer jogadas em espaços em branco
+    - Construir um módulo para verificar a validade da jogada do usuario
+    - Consertar o módulo de transcrição da jogada (String "A1" -> int: 0 | int: 0)
+    - Modularizar o projeto (para facilitar futura leitura)
+
+Ultima alteração: 01/03/2026 - ??
